@@ -1,6 +1,9 @@
 .container{
     margin-bottom:100px ;
 }
+#logo{
+    height: 20;
+}
 .pink-bg{
     background-color: #fceae8;
     border-radius: 10px;
